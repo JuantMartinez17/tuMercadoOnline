@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">parcial2</string>
+    <string name="app_title">Tu mercado online</string>
+    <string name="product_image">product image</string>
+    <string name="agregar_al_carrito">agregar al carrito</string>
+    <string name="cart_description">ver carrito</string>
+    <string name="cart_title">Tu carrito</string>
+    <string name="total_price" />
+    <string name="checkout">Ir a pagar</string>
+    <string name="cardNumber">Número de tarjeta</string>
+    <string name="cardExp">Fecha de expiración</string>
+    <string name="cardCVV">CVV</string>
+    <string name="pay">Pagar</string>
+    <string name="card_number">Número de tarjeta</string>
+    <string name="card_expire">Fecha de expiración (MM/YY)</string>
+    <string name="card_cvv">CVV</string>
+    <string name="pagar">Pagar</string>
+</resources>
